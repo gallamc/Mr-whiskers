@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mr. Whiskers Meows</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Meet Mr. Whiskers!</h1>
+    <img src="mr-whiskers.png" alt="Mr. Whiskers the cat" id="cat-image">
+    <button id="meow-button">Make Mr. Whiskers Meow</button>
+    <audio id="meow-sound" src="meow.mp3"></audio>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
